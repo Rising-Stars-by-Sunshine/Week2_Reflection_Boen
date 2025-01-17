@@ -29,3 +29,4 @@
 ## Setup Insturctions
 1. Clone the repository to your local machine(command: git clone https://github.com/Rising-Stars-by-Sunshine/Week2_Reflection_Boen.git)
 2. Setup the required environment and install the required packages.
+Additional Notes: For Cloud Environments (e.g., Google Colab): You can directly upload the repository or mount it using GitHub integration, and then install dependencies as shown in the steps. For Local Environments: Ensure your system meets the minimum configuration and has the required tools installed (Python 3.8+, required libraries, etc.).
